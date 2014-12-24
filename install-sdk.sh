@@ -1,6 +1,6 @@
 #!/bin/sh
 
-export ANDROID_SDK_VERSION="23.0.2"
+export ANDROID_SDK_VERSION="24.0.2"
 
 # Install SDK
 wget "http://dl.google.com/android/android-sdk_r${ANDROID_SDK_VERSION}-linux.tgz"
